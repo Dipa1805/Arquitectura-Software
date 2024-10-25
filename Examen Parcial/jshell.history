@@ -1,0 +1,2 @@
+VAR#>mvn install:install-file -Dfile=/ruta/a/AbsoluteLayout.jar -DgroupId=com.netbeans -DartifactId=absolutelayout -Dversion=1.0 -Dpackaging=jar
+VAR#>mvn install:install-file -Dfile=C:\Users\Diego\Documents\NetBeansProjects\SistemaCalificaciones\AbsoluteLayout.jar -DgroupId=com.netbeans -DartifactId=absolutelayout -Dversion=1.0 -Dpackaging=jar
